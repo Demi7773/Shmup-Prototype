@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbce31556d6534946aa206a0eecc023f, type: 3}
+  m_Name: TheGlockerson_Data
+  m_EditorClassIdentifier: 
+  _weaponInstance: {fileID: 8633584353802025246, guid: 0bb543449cd361f42ab87791948c674f,
+    type: 3}
+  _price: 100
+  _name: The Glockerson
+  _sprite: {fileID: 21300000, guid: 7bb2ed656daed8a4f8cf76cdef5eb154, type: 3}
+  _fireAudio: {fileID: 8300000, guid: e3abcc0ef3b9b574f826a8fcce97f3ff, type: 3}
+  _emptyClipAudio: {fileID: 8300000, guid: c0b07370707e75a469d0a5b423282562, type: 3}
+  _reloadStartAudio: {fileID: 8300000, guid: dc84127785e03364c94a94fba02ba474, type: 3}
+  _reloadedAudio: {fileID: 8300000, guid: 78b0292f17acf8e4e9c09951b6432582, type: 3}
